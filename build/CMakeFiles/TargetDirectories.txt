@@ -1,0 +1,3 @@
+/home/mehmetenes1517/Desktop/Projects/C Projects/build/CMakeFiles/BlockApp.dir
+/home/mehmetenes1517/Desktop/Projects/C Projects/build/CMakeFiles/edit_cache.dir
+/home/mehmetenes1517/Desktop/Projects/C Projects/build/CMakeFiles/rebuild_cache.dir

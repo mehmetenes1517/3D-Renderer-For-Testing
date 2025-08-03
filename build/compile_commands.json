@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mehmetenes1517/Desktop/Projects/C Projects/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -o CMakeFiles/BlockApp.dir/main.cpp.o -c \"/home/mehmetenes1517/Desktop/Projects/C Projects/main.cpp\"",
+  "file": "/home/mehmetenes1517/Desktop/Projects/C Projects/main.cpp",
+  "output": "CMakeFiles/BlockApp.dir/main.cpp.o"
+}
+]
